@@ -10,7 +10,7 @@
     'version': '15.1.1',
     'data': [
         'security/ir.model.access.csv',
-        #'views/views.xml',
+        'views/views.xml',
     ],
     'depends': ['base'],
 }
