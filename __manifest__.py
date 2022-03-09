@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "Field Change Activities",
-    'summary': """..""",
+    'summary': """...""",
     'description': """
         ..
     """,
